@@ -1,0 +1,6 @@
+# golang.org/x/crypto v0.0.0-20190103213133-ff983b9c42bc
+golang.org/x/crypto/openpgp/packet
+golang.org/x/crypto/openpgp/s2k
+golang.org/x/crypto/cast5
+golang.org/x/crypto/openpgp/elgamal
+golang.org/x/crypto/openpgp/errors
